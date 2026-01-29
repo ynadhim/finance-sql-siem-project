@@ -7,6 +7,8 @@
 <img width="1470" height="956" alt="Ubuntu Systemctl 2026-01-28 at 9 04 08 AM" src="https://github.com/user-attachments/assets/b9b88fc7-890e-416b-b03e-9ad90beb86e3" />
 <img width="1470" height="956" alt="Ubuntu elastic-agent status 2026-01-28 at 8 22 29 AM" src="https://github.com/user-attachments/assets/05d6bdd7-151b-49fb-920d-87f5d9da8aaf" />
 
+<img width="1406" height="948" alt="Screenshot 2026-01-28 at 10 41 07 PM" src="https://github.com/user-attachments/assets/1b315bde-1b78-42ed-9d9c-8a82459944a7" />
+
 
 
 
