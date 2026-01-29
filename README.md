@@ -37,9 +37,9 @@ Screenshots included:
 - Timeline creation
 - Incident-style investigation
 - Log correlation
+- Enabled SQL encryption (TLS)
 
 ## Future Improvements
-- Enable SQL encryption (TLS)
 - Implement key management / certificates
 - Network segmentation (VLANs)
 - IDS/IPS and firewall rules
