@@ -6,6 +6,7 @@
 <img width="1470" height="956" alt="Elastic Case 2026-01-28 at 8 51 04 AM" src="https://github.com/user-attachments/assets/0df67923-ee29-48f5-a6e8-24a63c85c2ac" />
 <img width="1470" height="956" alt="Ubuntu Systemctl 2026-01-28 at 9 04 08 AM" src="https://github.com/user-attachments/assets/b9b88fc7-890e-416b-b03e-9ad90beb86e3" />
 <img width="1470" height="956" alt="Ubuntu elastic-agent status 2026-01-28 at 8 22 29 AM" src="https://github.com/user-attachments/assets/05d6bdd7-151b-49fb-920d-87f5d9da8aaf" />
-![lab-setup-overview](https://github.com/user-attachments/assets/df753780-8667-45fe-bc6a-b5a8d3807592)
+
+
 
 
